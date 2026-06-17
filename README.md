@@ -158,12 +158,11 @@ Through this project, I learned:
 
 ### General Chat Mode
 
-![General Chat](screenshots/general_chat.png)
+![General Chat](general_chat.png)
 
 ### PDF Chat Mode
 
-![PDF Chat](screenshots/pdf_chat.png)
-
+![PDF Chat](pdf_chat.png)
 
 ## Author
 
